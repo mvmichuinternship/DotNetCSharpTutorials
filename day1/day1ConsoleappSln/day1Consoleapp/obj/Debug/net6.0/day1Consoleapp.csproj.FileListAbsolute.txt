@@ -1,0 +1,14 @@
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\bin\Debug\net6.0\day1Consoleapp.exe
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\bin\Debug\net6.0\day1Consoleapp.deps.json
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\bin\Debug\net6.0\day1Consoleapp.runtimeconfig.json
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\bin\Debug\net6.0\day1Consoleapp.dll
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\bin\Debug\net6.0\day1Consoleapp.pdb
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\obj\Debug\net6.0\day1Consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\obj\Debug\net6.0\day1Consoleapp.AssemblyInfoInputs.cache
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\obj\Debug\net6.0\day1Consoleapp.AssemblyInfo.cs
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\obj\Debug\net6.0\day1Consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\obj\Debug\net6.0\day1Consoleapp.dll
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\obj\Debug\net6.0\refint\day1Consoleapp.dll
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\obj\Debug\net6.0\day1Consoleapp.pdb
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\obj\Debug\net6.0\day1Consoleapp.genruntimeconfig.cache
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\obj\Debug\net6.0\ref\day1Consoleapp.dll
