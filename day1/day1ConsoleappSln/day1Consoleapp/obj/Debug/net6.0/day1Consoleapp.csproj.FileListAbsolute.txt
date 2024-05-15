@@ -12,3 +12,4 @@ C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Console
 C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\obj\Debug\net6.0\day1Consoleapp.pdb
 C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\obj\Debug\net6.0\day1Consoleapp.genruntimeconfig.cache
 C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\obj\Debug\net6.0\ref\day1Consoleapp.dll
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day1\day1ConsoleappSln\day1Consoleapp\obj\Debug\net6.0\day1Consoleapp.sourcelink.json
