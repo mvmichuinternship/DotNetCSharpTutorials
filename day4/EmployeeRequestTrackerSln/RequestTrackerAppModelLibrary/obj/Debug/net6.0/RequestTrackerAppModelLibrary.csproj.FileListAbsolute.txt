@@ -1,0 +1,12 @@
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerAppModelLibrary\bin\Debug\net6.0\RequestTrackerAppModelLibrary.deps.json
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerAppModelLibrary\bin\Debug\net6.0\RequestTrackerAppModelLibrary.dll
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerAppModelLibrary\bin\Debug\net6.0\RequestTrackerAppModelLibrary.pdb
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerAppModelLibrary\obj\Debug\net6.0\RequestTrackerAppModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerAppModelLibrary\obj\Debug\net6.0\RequestTrackerAppModelLibrary.AssemblyInfoInputs.cache
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerAppModelLibrary\obj\Debug\net6.0\RequestTrackerAppModelLibrary.AssemblyInfo.cs
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerAppModelLibrary\obj\Debug\net6.0\RequestTrackerAppModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerAppModelLibrary\obj\Debug\net6.0\RequestTrackerAppModelLibrary.sourcelink.json
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerAppModelLibrary\obj\Debug\net6.0\RequestTrackerAppModelLibrary.dll
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerAppModelLibrary\obj\Debug\net6.0\refint\RequestTrackerAppModelLibrary.dll
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerAppModelLibrary\obj\Debug\net6.0\RequestTrackerAppModelLibrary.pdb
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerAppModelLibrary\obj\Debug\net6.0\ref\RequestTrackerAppModelLibrary.dll
