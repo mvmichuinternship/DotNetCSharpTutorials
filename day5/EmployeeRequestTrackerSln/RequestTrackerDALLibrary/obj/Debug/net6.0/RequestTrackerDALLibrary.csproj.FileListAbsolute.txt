@@ -1,0 +1,16 @@
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\bin\Debug\net6.0\RequestTrackerDALLibrary.deps.json
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\bin\Debug\net6.0\RequestTrackerDALLibrary.dll
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\bin\Debug\net6.0\RequestTrackerDALLibrary.pdb
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\bin\Debug\net6.0\RequestTrackerAppModelLibrary.dll
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\bin\Debug\net6.0\RequestTrackerAppModelLibrary.pdb
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.csproj.AssemblyReference.cache
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.AssemblyInfoInputs.cache
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.AssemblyInfo.cs
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.sourcelink.json
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestT.889816FC.Up2Date
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.dll
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\obj\Debug\net6.0\refint\RequestTrackerDALLibrary.dll
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\obj\Debug\net6.0\RequestTrackerDALLibrary.pdb
+C:\Users\uma_r\OneDrive\Desktop\projects\.net\day4\EmployeeRequestTrackerSln\RequestTrackerDALLibrary\obj\Debug\net6.0\ref\RequestTrackerDALLibrary.dll

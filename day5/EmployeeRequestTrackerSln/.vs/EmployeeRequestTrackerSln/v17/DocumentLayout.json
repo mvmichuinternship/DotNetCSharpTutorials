@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uma_r\\OneDrive\\Desktop\\projects\\.net\\day4\\EmployeeRequestTrackerSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD498BF-D5CC-4D19-8B06-5C027C7718DF}|EmployeeRequestTracker\\EmployeeRequestTracker.csproj|c:\\users\\uma_r\\onedrive\\desktop\\projects\\.net\\day4\\employeerequesttrackersln\\employeerequesttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD498BF-D5CC-4D19-8B06-5C027C7718DF}|EmployeeRequestTracker\\EmployeeRequestTracker.csproj|solutionrelative:employeerequesttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80123528-B665-4D52-812D-3B6E34A1398E}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\uma_r\\onedrive\\desktop\\projects\\.net\\day4\\employeerequesttrackersln\\requesttrackerdallibrary\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80123528-B665-4D52-812D-3B6E34A1398E}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69AB582-EB98-46B3-A146-D4F747809B05}|EmployeeRequestTrackerBLLibrary\\EmployeeRequestTrackerBLLibrary.csproj|c:\\users\\uma_r\\onedrive\\desktop\\projects\\.net\\day4\\employeerequesttrackersln\\employeerequesttrackerbllibrary\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69AB582-EB98-46B3-A146-D4F747809B05}|EmployeeRequestTrackerBLLibrary\\EmployeeRequestTrackerBLLibrary.csproj|solutionrelative:employeerequesttrackerbllibrary\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69AB582-EB98-46B3-A146-D4F747809B05}|EmployeeRequestTrackerBLLibrary\\EmployeeRequestTrackerBLLibrary.csproj|c:\\users\\uma_r\\onedrive\\desktop\\projects\\.net\\day4\\employeerequesttrackersln\\employeerequesttrackerbllibrary\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69AB582-EB98-46B3-A146-D4F747809B05}|EmployeeRequestTrackerBLLibrary\\EmployeeRequestTrackerBLLibrary.csproj|solutionrelative:employeerequesttrackerbllibrary\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80123528-B665-4D52-812D-3B6E34A1398E}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|c:\\users\\uma_r\\onedrive\\desktop\\projects\\.net\\day4\\employeerequesttrackersln\\requesttrackerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80123528-B665-4D52-812D-3B6E34A1398E}|RequestTrackerDALLibrary\\RequestTrackerDALLibrary.csproj|solutionrelative:requesttrackerdallibrary\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCD3A5A-883B-4E13-8058-ED14332BA5CE}|RequestTrackerAppModelLibrary\\RequestTrackerAppModelLibrary.csproj|c:\\users\\uma_r\\onedrive\\desktop\\projects\\.net\\day4\\employeerequesttrackersln\\requesttrackerappmodellibrary\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCD3A5A-883B-4E13-8058-ED14332BA5CE}|RequestTrackerAppModelLibrary\\RequestTrackerAppModelLibrary.csproj|solutionrelative:requesttrackerappmodellibrary\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\uma_r\\OneDrive\\Desktop\\projects\\.net\\day4\\EmployeeRequestTrackerSln\\EmployeeRequestTrackerBLLibrary\\IEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeRequestTrackerBLLibrary\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\uma_r\\OneDrive\\Desktop\\projects\\.net\\day4\\EmployeeRequestTrackerSln\\EmployeeRequestTrackerBLLibrary\\IEmployee.cs",
+              "RelativeToolTip": "EmployeeRequestTrackerBLLibrary\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:31:41.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\uma_r\\OneDrive\\Desktop\\projects\\.net\\day4\\EmployeeRequestTrackerSln\\EmployeeRequestTrackerBLLibrary\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "EmployeeRequestTrackerBLLibrary\\EmployeeBL.cs",
+              "ToolTip": "C:\\Users\\uma_r\\OneDrive\\Desktop\\projects\\.net\\day4\\EmployeeRequestTrackerSln\\EmployeeRequestTrackerBLLibrary\\EmployeeBL.cs",
+              "RelativeToolTip": "EmployeeRequestTrackerBLLibrary\\EmployeeBL.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T15:30:49.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\uma_r\\OneDrive\\Desktop\\projects\\.net\\day4\\EmployeeRequestTrackerSln\\RequestTrackerAppModelLibrary\\Request.cs",
+              "RelativeDocumentMoniker": "RequestTrackerAppModelLibrary\\Request.cs",
+              "ToolTip": "C:\\Users\\uma_r\\OneDrive\\Desktop\\projects\\.net\\day4\\EmployeeRequestTrackerSln\\RequestTrackerAppModelLibrary\\Request.cs",
+              "RelativeToolTip": "RequestTrackerAppModelLibrary\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:35:58.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\uma_r\\OneDrive\\Desktop\\projects\\.net\\day4\\EmployeeRequestTrackerSln\\RequestTrackerDALLibrary\\IRepository.cs",
+              "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\IRepository.cs",
+              "ToolTip": "C:\\Users\\uma_r\\OneDrive\\Desktop\\projects\\.net\\day4\\EmployeeRequestTrackerSln\\RequestTrackerDALLibrary\\IRepository.cs",
+              "RelativeToolTip": "RequestTrackerDALLibrary\\IRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:05:17.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\uma_r\\OneDrive\\Desktop\\projects\\.net\\day4\\EmployeeRequestTrackerSln\\RequestTrackerDALLibrary\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "RequestTrackerDALLibrary\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\uma_r\\OneDrive\\Desktop\\projects\\.net\\day4\\EmployeeRequestTrackerSln\\RequestTrackerDALLibrary\\EmployeeRepository.cs",
+              "RelativeToolTip": "RequestTrackerDALLibrary\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:04:40.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\uma_r\\OneDrive\\Desktop\\projects\\.net\\day4\\EmployeeRequestTrackerSln\\EmployeeRequestTracker\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeRequestTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\uma_r\\OneDrive\\Desktop\\projects\\.net\\day4\\EmployeeRequestTrackerSln\\EmployeeRequestTracker\\Program.cs",
+              "RelativeToolTip": "EmployeeRequestTracker\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAMwBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:40:20.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
